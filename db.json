@@ -1,0 +1,184 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Prepare Portfolio",
+      "content": "Update GitHub and document projects.",
+      "category": "Career",
+      "priority": "high",
+      "status": "active",
+      "createdAt": "2026-02-12"
+    },
+    {
+      "id": 2,
+      "title": "React Practice",
+      "content": "Build CRUD app with API integration.",
+      "category": "Study",
+      "priority": "medium",
+      "status": "active",
+      "createdAt": "2026-02-11"
+    },
+    {
+      "id": 3,
+      "title": "Flask Review",
+      "content": "Review routing, request handling and JSON response.",
+      "category": "Study",
+      "priority": "high",
+      "status": "active",
+      "createdAt": "2026-02-10"
+    },
+    {
+      "id": 4,
+      "title": "Database Design",
+      "content": "Design schema for note application.",
+      "category": "Work",
+      "priority": "medium",
+      "status": "active",
+      "createdAt": "2026-02-09"
+    },
+    {
+      "id": 5,
+      "title": "Team Meeting",
+      "content": "Discuss feature roadmap and assign tasks.",
+      "category": "Work",
+      "priority": "high",
+      "status": "active",
+      "createdAt": "2026-02-08"
+    },
+    {
+      "id": 6,
+      "title": "Bug Fix",
+      "content": "Fix API error handling for invalid input.",
+      "category": "Work",
+      "priority": "high",
+      "status": "archived",
+      "createdAt": "2026-02-07"
+    },
+    {
+      "id": 7,
+      "title": "UI Improvement",
+      "content": "Improve layout and spacing in dashboard.",
+      "category": "Work",
+      "priority": "low",
+      "status": "active",
+      "createdAt": "2026-02-06"
+    },
+    {
+      "id": 8,
+      "title": "Learn SQL JOIN",
+      "content": "Practice INNER JOIN and LEFT JOIN queries.",
+      "category": "Study",
+      "priority": "medium",
+      "status": "active",
+      "createdAt": "2026-02-05"
+    },
+    {
+      "id": 9,
+      "title": "Workout Plan",
+      "content": "Exercise for 30 minutes after work.",
+      "category": "Personal",
+      "priority": "low",
+      "status": "active",
+      "createdAt": "2026-02-04"
+    },
+    {
+      "id": 10,
+      "title": "Read Tech Article",
+      "content": "Read article about REST API best practices.",
+      "category": "Study",
+      "priority": "low",
+      "status": "archived",
+      "createdAt": "2026-02-03"
+    },
+    {
+      "id": 11,
+      "title": "API Testing",
+      "content": "Test endpoints using Postman.",
+      "category": "Work",
+      "priority": "medium",
+      "status": "active",
+      "createdAt": "2026-02-02"
+    },
+    {
+      "id": 12,
+      "title": "Grocery Shopping",
+      "content": "Buy vegetables, fruits and milk.",
+      "category": "Personal",
+      "priority": "medium",
+      "status": "active",
+      "createdAt": "2026-02-01"
+    },
+    {
+      "id": 13,
+      "title": "Code Refactoring",
+      "content": "Refactor backend service structure.",
+      "category": "Work",
+      "priority": "high",
+      "status": "active",
+      "createdAt": "2026-01-31"
+    },
+    {
+      "id": 14,
+      "title": "Prepare Presentation",
+      "content": "Prepare slides for weekly demo.",
+      "category": "Work",
+      "priority": "high",
+      "status": "active",
+      "createdAt": "2026-01-30"
+    },
+    {
+      "id": 15,
+      "title": "Update Resume",
+      "content": "Add recent projects and skills.",
+      "category": "Career",
+      "priority": "medium",
+      "status": "active",
+      "createdAt": "2026-01-29"
+    },
+    {
+      "id": 16,
+      "title": "Deploy Test App",
+      "content": "Deploy note app to local server.",
+      "category": "Work",
+      "priority": "medium",
+      "status": "archived",
+      "createdAt": "2026-01-28"
+    },
+    {
+      "id": 17,
+      "title": "Learn Git Branching",
+      "content": "Practice creating and merging branches.",
+      "category": "Study",
+      "priority": "medium",
+      "status": "active",
+      "createdAt": "2026-01-27"
+    },
+    {
+      "id": 18,
+      "title": "Clean Workspace",
+      "content": "Organize desk and files.",
+      "category": "Personal",
+      "priority": "low",
+      "status": "active",
+      "createdAt": "2026-01-26"
+    },
+    {
+      "id": 19,
+      "title": "Research Hosting",
+      "content": "Compare deployment options for Flask app.",
+      "category": "Study",
+      "priority": "high",
+      "status": "active",
+      "createdAt": "2026-01-25"
+    },
+    {
+      "id": 20,
+      "title": "Backup Project Files",
+      "content": "Backup all project folders to external drive.",
+      "category": "Work",
+      "priority": "high",
+      "status": "active",
+      "createdAt": "2026-01-24"
+    }
+  ]
+}
