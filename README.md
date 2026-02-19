@@ -15,10 +15,9 @@ TaskManager is a powerful and flexible application designed to help individuals 
 - **Notifications:** Get reminders for upcoming deadlines.
 
 ## Tech Stack
-- **Frontend:** React.js
-- **Backend:** Node.js with Express
-- **Database:** MongoDB
-- **Authentication:** JSON Web Tokens (JWT)
+- **Frontend:** React + Vite
+- **Backend:** Node.js, Python
+- **Database:** SQL lite
 
 ## Installation Instructions
 1. Clone the repository:
@@ -35,7 +34,7 @@ TaskManager is a powerful and flexible application designed to help individuals 
    ```
 4. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## Usage Guide
