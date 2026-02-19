@@ -1,4 +1,7 @@
 # TaskManager
+<img width="1919" height="1077" alt="สกรีนช็อต 2026-02-19 121858" src="https://github.com/user-attachments/assets/d97447ce-a581-41bb-9cbe-e7ec8e227b21" />
+<img width="1916" height="1078" alt="image" src="https://github.com/user-attachments/assets/2b154d86-59fb-4128-aaf4-3e50781a9ed1" />
+
 
 ## Project Description
 TaskManager is a powerful and flexible application designed to help individuals and teams manage their tasks efficiently. It aims to simplify task management through an intuitive interface, allowing users to focus on what matters most.
